@@ -1,0 +1,10 @@
+Undo:-
+
+>> checkout
+
+>> revert
+
+>>reset
+
+
+Difference Between revert and reset??
