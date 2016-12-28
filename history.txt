@@ -53,3 +53,51 @@
    53  git log --invert-grep -h
    54  history < history.txt
    55  history > history.txt
+   56  git diff
+   57  git diff
+   58  git show
+   59  git diff --staged
+   60  git add history.txt
+   61  ls
+   62  git status
+   63  git commit -m "history commit"
+   64  git status
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "file1 renamed to Newfile..."
+   69  git status
+   70  git mv NewFile.txt File1.txt
+   71  git status
+   72  git commit -m "renamed again..."
+   73  git status
+   74  git status
+   75  git commit -am "FiletoDelete commit"
+   76  git add .
+   77  git commit -am "FiletoDelete commit"
+   78  git status
+   79  git log --oneline
+   80  git status
+   81  git rm FiletoDelete
+   82  git rm FileToDelete
+   83  git rm FileToDelete.txt
+   84  git status
+   85  git log
+   86  git log --online
+   87  git log --oneline
+   88  IGNORING FILE WHICH ARE AUTO Generated
+   89  git status
+   90  git status
+   91  git add .
+   92  git status
+   93  git commit -m "git ignore file is created"
+   94  git status
+   95  git log
+   96  git log --online
+   97  git log --oneline
+   98  UNDOING THE CHANGES
+   99  git commit -am "task given in New Document"
+  100  git status
+  101  git checkout d67ac8e
+  102  git checkout master
+  103  history > history.txt
