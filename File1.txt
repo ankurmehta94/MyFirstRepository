@@ -1,5 +1,5 @@
 Hello Git...!!
 
-change1
+Change 1
 
-Change2
+Change 2
